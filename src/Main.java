@@ -1,5 +1,11 @@
 public class Main {
+
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        ArrayStructures arrayNew = new ArrayStructures();
+        // Check all the methods from ArrayStructures
+
+
+
+
     }
 }
